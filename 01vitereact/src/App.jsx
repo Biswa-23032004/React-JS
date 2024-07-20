@@ -1,10 +1,15 @@
+import Maggie from "./new"
 
 
 function App() {
 
 
   return (
-    <h1>React with VITE | BN </h1>
+    <>
+    <Maggie/>
+    <h1>Maggie aur soup</h1>
+    </>
+    
   )
 }
 
