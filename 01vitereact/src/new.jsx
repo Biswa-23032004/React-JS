@@ -5,4 +5,7 @@ function Maggie() {
     
 }
 
+// if the html is return from this file it is mandotory towrite file name with .jsx while using vite app
+
+
 export default Maggie

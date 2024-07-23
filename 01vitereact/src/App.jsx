@@ -3,7 +3,6 @@ import Maggie from "./new"
 
 function App() {
 
-
   return (
     <>
     <Maggie/>
