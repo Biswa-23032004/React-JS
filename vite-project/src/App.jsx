@@ -35,6 +35,7 @@ function App() {
     } else {
       setCounter(counter - 1)
     }
+    
   }
 
   //   console.log("clicked", counter);
