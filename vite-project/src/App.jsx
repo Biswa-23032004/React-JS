@@ -54,11 +54,15 @@ function App() {
   return (
     <>
     <h1>Maggie aur soup</h1>
+
     <h2>Counter value: {counter}</h2>
 
     <button onClick={addvalue}>Add value {counter}</button>
+
     <br />
+
     <button onClick={removevalue}>Remove value {counter}</button>
+    
     <p>Footer: {counter}</p>
     </>
   )
